@@ -55,10 +55,10 @@ cypress-api/
 │
 ├── cypress/
 │   ├── e2e/ (ou integration/)
-│   │   └── activities.spec.js
+│   │   └── workshop-api.cy.js
 │   │
 │   ├── fixtures/
-│   │   └── data.json
+│   │   └── example.json
 │   │
 │   ├── support/
 │   │   ├── commands.js
